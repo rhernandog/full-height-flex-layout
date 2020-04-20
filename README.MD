@@ -6,3 +6,6 @@ A simple layout using flexbox. The main concept is a layout that has a header, a
 ### Author
 - Rodrigo Hernando G.
 - Twitter [@websnap.cl](https://twitter.com/websnapcl/)
+
+### Live Sample
+https://rhernandog.github.io/full-height-flex-layout/

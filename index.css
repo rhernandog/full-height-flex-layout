@@ -21,20 +21,19 @@ body {
 
 header {
 	min-height: 80px;
-	background-color: purple;
+	background-color: teal;
 	text-align: center;
 	color: white;
 }
 
 main {
-	background-color: tomato;
+	background-color: wheat;
 	flex-grow: 1;
 }
 
 .container {
 	width: 100%;
 	max-width: 1200px;
-	background-color: wheat;
 	margin: 0 auto;
 }
 
@@ -51,7 +50,7 @@ main {
 }
 
 footer {
-	flex: 1 0 auto;
+	flex: 1 0 1;
 	min-height: 80px;
 	background-color: teal;
 	text-align: center;
